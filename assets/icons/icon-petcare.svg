@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 24 24">
+  <!-- Generator: Adobe Illustrator 29.1.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 142)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: url(#linear-gradient2);
+      }
+
+      .st1 {
+        fill: url(#linear-gradient1);
+      }
+
+      .st2 {
+        fill: url(#linear-gradient);
+      }
+
+      .st3 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: .5px;
+      }
+
+      .st4 {
+        fill: url(#linear-gradient3);
+        fill-rule: evenodd;
+      }
+
+      .st5 {
+        fill: #fffaf5;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="12.7" y1="22.8" x2="12.7" y2="9.8" gradientTransform="translate(0 29.9) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffad97"/>
+      <stop offset="1" stop-color="#ff5b2e"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient1" x1="12.7" y1="25.9" x2="12.7" y2="22.5" gradientTransform="translate(0 29.9) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffad97"/>
+      <stop offset="1" stop-color="#ff5b2e"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient2" x1="-5.2" y1="844.6" x2="-5.2" y2="842.5" gradientTransform="translate(23.7 -839.8)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffad97"/>
+      <stop offset="1" stop-color="#ff5b2e"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient3" x1="5.2" y1="14.2" x2="5.2" y2="7.2" gradientTransform="translate(0 29.9) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff9071"/>
+      <stop offset="1" stop-color="#ff5b2e"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_36">
+    <g id="Group_35">
+      <rect id="Rectangle_34" class="st2" x="5.2" y="7.1" width="15.1" height="13"/>
+      <path id="Rectangle_35" class="st1" d="M4.7,4h16.1l1,3.4H3.6l1-3.4Z"/>
+      <rect id="Rectangle_36" class="st0" x="17.4" y="2.7" width="2.1" height="2.1"/>
+      <g id="Group_34">
+        <rect id="Rectangle_37" class="st5" x="6.8" y="8.9" width="2.6" height="2.6" rx=".5" ry=".5"/>
+        <rect id="Rectangle_40" class="st5" x="6.8" y="14.1" width="2.6" height="2.6" rx=".5" ry=".5"/>
+        <rect id="Rectangle_38" class="st5" x="11.4" y="8.9" width="2.6" height="2.6" rx=".5" ry=".5"/>
+        <rect id="Rectangle_41" class="st5" x="11.4" y="14.1" width="2.6" height="2.6" rx=".5" ry=".5"/>
+        <rect id="Rectangle_39" class="st5" x="16.1" y="8.9" width="2.6" height="2.6" rx=".5" ry=".5"/>
+        <rect id="Rectangle_42" class="st5" x="16.1" y="14.1" width="2.6" height="2.6" rx=".5" ry=".5"/>
+      </g>
+    </g>
+    <g id="Group_33">
+      <g id="Group">
+        <g id="Vector">
+          <path class="st4" d="M5.2,16.3c2.1-2.1,7.3,1.6,0,6.4-7.3-4.8-2.1-8.5,0-6.4Z"/>
+        </g>
+      </g>
+      <g id="Vector_7">
+        <path class="st3" d="M.8,19.6h1.5l.6-1.2,1,2.3.9-1.7.7.5.8-2,1,2.6.4-.5h1.9"/>
+      </g>
+    </g>
+  </g>
+</svg>
